@@ -77,6 +77,12 @@ This project demonstrates how historical injury and accident data can guide smar
 - Develop predictive risk scoring per aircraft type  
 - Deploy an interactive dashboard for stakeholders
 
+## 📊 Interactive Dashboard
+
+You can explore the interactive version of this analysis here:  
+🔗 [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/6214dea4-35ce-4cf7-8b3c-2778ffcbb6ae/fe3f9ec66d4d89bc59b1?experience=power-bi)
+
+
 ## 📁 Repository Structure
 
 ```
