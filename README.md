@@ -79,3 +79,15 @@ This project demonstrates how historical injury and accident data can guide smar
 
 ## 📁 Repository Structure
 
+├── Images/
+│ ├── aircraft_damage_pie_chart.png
+│ ├── broad_phase_flight_bar_chart.png
+│ ├── InvolvedInAccident.png'
+| └── recombarChart.png
+├── notebooks/
+│ ├── student_working_notebook.ipynb
+| ├── presentation.pdf
+| └── student_working_notebook.pdf
+├── README.md
+└── 
+
