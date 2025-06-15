@@ -44,8 +44,7 @@ The dataset was cleaned and transformed as follows:
 ![Involved in Accident](Images/InvolvedInAccident.png)
 
 ### ✅ Final Aircraft Recommendations
-![Recommandation bar chart ](Images/recomBarChart.png)
-
+![Recommandation bar chart ](Images/recombarChart.png)
 #### 1. **Boeing 737** – Commercial Mainstay with Strong Safety Record  
 - **Fatality Rate:** 4.9% (1,348 fatalities out of 27,268 people involved)  
 - **Usage:** Still the most widely flown narrow-body jet  
